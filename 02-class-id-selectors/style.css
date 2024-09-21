@@ -1,0 +1,24 @@
+
+/* . for class, # for id */
+
+.odd {
+    background-color: rgb(253, 129, 150);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#second 
+{
+    color: #3434ce;
+    font-size: 36px;
+}
+
+#third {
+    font-size: 24px;
+}
+
+#fourth
+{
+    background-color: rgb(117, 241, 117);
+    font-size: 24px;
+    font-weight: bold;
+}
